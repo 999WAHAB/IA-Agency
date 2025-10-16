@@ -1,9 +1,9 @@
 # IA-Agency
 This is a description about our Agency!
 {
-  "agency_name": "WTV Agency",
+  "agency_name": "WHB Agency",
   "tagline": "We automate, you grow.",
-  "description": "WTV Agency is a creative automation and digital transformation agency that helps businesses streamline workflows and boost productivity using AI tools like n8n, ChatGPT, and custom integrations.",
+  "description": "WHB Agency is a creative automation and digital transformation agency that helps businesses streamline workflows and boost productivity using AI tools like n8n, ChatGPT, and custom integrations.",
   "mission": "To make automation accessible for every business, big or small.",
   "vision": "Empower entrepreneurs and companies to work smarter through smart automation and AI assistants.",
   "services": [
@@ -36,8 +36,8 @@ This is a description about our Agency!
     }
   ],
   "contact": {
-    "email": "contact@wtvagency.com",
-    "website": "https://wtvagency.com",
+    "email": "contact@WHBagency.com",
+    "website": "https://WHBagency.com",
     "phone": "+1-555-298-3471",
     "location": "Paris, France"
   }
