@@ -36,7 +36,7 @@ This is a description about our Agency!
     }
   ],
   "contact": {
-    "email": "contact@WHBagency.com",
+    "email": "WHBagency@gmail.com",
     "website": "https://WHBagency.com",
     "phone": "+1-555-298-3471",
     "location": "Paris, France"
